@@ -1,0 +1,1 @@
+Educational project starter. Review the licenses of PyTorch, torchvision, Streamlit and pretrained model weights before redistribution.
